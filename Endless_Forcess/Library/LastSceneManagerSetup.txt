@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Fugindo_Do_Caos.unity
+  isLoaded: 1
+  isActive: 1
